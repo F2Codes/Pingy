@@ -1,4 +1,4 @@
-**Pingy** is a lightweight and professional tool to check DNS status and measure ping, packet loss, min/avg/max, jitter, and sample count. The interface is **Persian** with a clean and compact design. 🇮🇷✨
+**Pingy** is a lightweight and professional tool to check DNS status and measure ping, packet loss, min/avg/max, jitter, and sample count. The interface is **Persian** with a clean and compact design. 🦁✨
 
 ---
 
